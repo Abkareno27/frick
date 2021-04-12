@@ -21,7 +21,7 @@ h1{
    stroke-opacity: 100%;
    font-family: 'Bebas Neue', cursive;
     font-size: 400%;
-    -webkit-text-stroke-width:0.1px;
+    -webkit-text-stroke-width:0.5px;
     -webkit-text-stroke-color:black;
 
 } 
